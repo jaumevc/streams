@@ -84,6 +84,8 @@ public class App implements CommandLineRunner{
 		System.out.println("220918_3 Desde repositori local");
 
 		System.out.println("220918_3 des de GitHub");
+		
+		System.out.println("220926_4 canvi en branch Proves de Merge per fer cherry pick");
 
         
 	}
